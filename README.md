@@ -1,16 +1,15 @@
-## Hi there 👋
+### BOAS VINDAS AO MEU PERFIL 👋
 
-<!--
-**analuysa/analuysa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME È ANA LUYSA 🖤
 
-Here are some ideas to get you started:
+- ESTOU ESTUDANDO NA ALURA
+- ESTOU ME DESENVOLVENDO NA LINGUAGEM JAVASCRIPT
+- ULTILIZO ESSE ESPAÇO PARA MINHA ORGANIZAÇAO E COMPARTILHAMENTO DOS MEUS PROJETOS DESENVOLVIDOS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### VOCE ENTRAR EM CONTATO COMIGO 📧
+
+@IAEE_ANINHAAH_
+@A_ANINHAAH_
+
+
+
